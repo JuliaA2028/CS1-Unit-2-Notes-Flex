@@ -1,1 +1,10 @@
-
+.flex-item {
+    background: lightgrey;
+    height: 50px;
+    width:50px;
+    border:2px dotted black;
+}
+.flex-container {
+display: flex;
+justify-content: space-evenly;
+}
